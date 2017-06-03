@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'custom';
+  src: url('AE.ttf') format('truetype');
+}  
+
+.classname {
+    font-family: 'custom';
+    font-size: 30pt;
+    font-style: italic;
+}
